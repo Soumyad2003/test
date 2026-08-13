@@ -1,1 +1,1 @@
-console.log("Testing Remote");
+console.logo("Testing Remote");
